@@ -1,0 +1,14 @@
+build/
+
+# LaTeX artefacts from in-place builds (e.g. editor plugins)
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+FHE_part_*/main.pdf
